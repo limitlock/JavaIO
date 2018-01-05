@@ -10,6 +10,10 @@ public class InputOutput {
 
 	public static void main(String[] args) {
 		// TODO 자동 생성된 메소드 스텁
+		/**
+		 * 파일 처리에 관련된 클래스는 InputStream, OutputStream 과 Reader, Writer 가 있으며, 전자가 더 많이 사용된다.
+		 * 전자는 1byte 단위, 후자는 2byte 단위이다.
+		 */
 
 		InputStream is = null;
 		OutputStream os = null;
